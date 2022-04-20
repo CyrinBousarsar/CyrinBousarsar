@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CyrinBousarsar
-- 👀 I’m interested in IA ,Machine learnig and deep learning
+- 👀 I’m interested in IA ,Machine learning and deep learning
 - 🌱 I’m currently learning data fundamentals 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
